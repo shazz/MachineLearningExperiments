@@ -1,0 +1,9 @@
+[submodule "tflearn-experiments"]
+	path = tflearn-experiments
+	url = https://github.com/shazz/tflearn-experiments
+[submodule "twitter_sentiment_challenge"]
+	path = twitter_sentiment_challenge
+	url = https://github.com/shazz/twitter_sentiment_challenge.git
+[submodule "gender_classification_challenge"]
+	path = gender_classification_challenge
+	url = https://github.com/shazz/gender_classification_challenge.git
